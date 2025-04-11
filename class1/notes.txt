@@ -32,5 +32,10 @@ after adding we see the files in local area that means local directory
 here $ ls -la shows the local area files
      $ ls -lrth  shows the all files with hidden files also
 
+GIT CONFIG:-
+@@@@@@@@@@@@
+
+using git config command we configure our details
+like user name ,user email 
 
 

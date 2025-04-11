@@ -72,5 +72,6 @@ $ git show --pretty"" --name-only  ee600e470e4782f5cd2e358908710046cc73363e
 $ git remote add jio https://github.com/devops-total-concepts/first-git-class23.git
 $ git remote -v
 here jio is the alias name
+in the place of origin we gitve jio here origin and jio is the alias names
 
 

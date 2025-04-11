@@ -63,3 +63,6 @@ using this git show command we see the which files are update in particular comm
 $ git show <commit id >
 ex:- git show ee600e470e4782f5cd2e358908710046cc73363e
 we get this commit id from "git log "command
+
+using this below command we the file names in this commit it shows the which files are committed in this commit id  
+$ git show --pretty"" --name-only  ee600e470e4782f5cd2e358908710046cc73363e

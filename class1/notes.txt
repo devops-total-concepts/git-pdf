@@ -53,3 +53,13 @@ git commit -m "moving all files "
 GIT LOG:-
 @@@@@@@@@
 *** using git log command we list the commit id ***
+
+$ git log
+$ git log --oneline --all --graph
+
+GIT SHOW
+@@@@@@@@@@@
+using this git show command we see the which files are update in particular commit 
+$ git show <commit id >
+ex:- git show ee600e470e4782f5cd2e358908710046cc73363e
+we get this commit id from "git log "command

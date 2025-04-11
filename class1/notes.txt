@@ -14,17 +14,24 @@ staging area
 local repo
 remote repo
 
-you create the files in workking area like ---> touch class.java
+CREATE THE FILES IN WORKING AREA
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+you create the files in working area like ---> touch class.java
                                            ----> touch web.java
                                            ---> touch red.sh
                                            ---> touch blue.sh
                                            ---> touch aaa.txt
 in this way we create the files in working area
+using touch command we create the files only not to write any content here
 
+GIT ADD:-
+##########
+using git add command we move files from working area to staging area
 if we want to add only java files we use $ git add *.java ---> all java files are added
 if we want to add sh files and txt files  $ git add blue.sh aaa.txt
 
 here $ ls -la shows the local area files
      $ ls -lrth  shows the all files with hidden files also
+
 
 

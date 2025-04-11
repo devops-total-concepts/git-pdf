@@ -50,4 +50,6 @@ GIT COMMIT :-
 
 git commit -m "moving all files "
 
-
+GIT LOG:-
+@@@@@@@@@
+*** using git log command we list the commit id ***

@@ -66,3 +66,10 @@ we get this commit id from "git log "command
 
 using this below command we the file names in this commit it shows the which files are committed in this commit id  
 $ git show --pretty"" --name-only  ee600e470e4782f5cd2e358908710046cc73363e
+
+ create Alias:-
+---------------
+git remote add jio https://github.com/devops-total-concepts/first-git-class23.git
+here jio is the alias name
+
+

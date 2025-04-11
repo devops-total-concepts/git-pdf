@@ -40,6 +40,10 @@ like user name ,user email
 
 git config --global --list
 git config --global user.name "sunitharamu"
-git config --global user.email "teche.sunitha2025@gmail.com"
+git config --global user.email "guddantisriram1@gmail.com"
+git config --global --list
+user.email=guddantisriram1@gmail.com
+user.name=sunitharamu
+
 
 

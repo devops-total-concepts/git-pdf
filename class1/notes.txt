@@ -8,7 +8,6 @@ git push :- using git push command we push the files staging area to remoto repo
 
 move files from working area to remot repo
 ----------------------------------------------
-
 working area
 staging area
 local repo

@@ -45,5 +45,9 @@ git config --global --list
 user.email=guddantisriram1@gmail.com
 user.name=sunitharamu
 
+GIT COMMIT :-
+@@@@@@@@@@
+
+git commit -m "moving all files "
 
 

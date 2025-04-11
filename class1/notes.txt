@@ -77,4 +77,10 @@ $ git push jio main
 jio is the alias name 
 main is the branch name
 
-
+FILES MOVE FROM WORKING AREA TO LOCAL AREA DIRECTLY WITHOUT MOVE TO STAGING AREA
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+here we have modified file kkdevops.yaml in this file we do some changes kkdevops.yaml already commited file to remote repo
+so modified file only moves from working area to local area
+    $ git commit -am kkdevops.yaml "modified file committed directly to local area"
+here we create new file that new file we can't move directly to local area 
+only after adding we move to local area

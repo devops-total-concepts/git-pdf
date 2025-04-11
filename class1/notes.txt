@@ -5,3 +5,23 @@ git init :- it initializes empty repository in the working directory
 git add :- using git add command we add files to the satging area
 git commit :- using git commit commands we record the files from the staging area 
 git push :- using git push command we push the files staging area to remoto repo 
+
+move files from working area to remot repo
+----------------------------------------------
+
+working area
+staging area
+local repo
+remote repo
+
+you create the files in workking area like ---> touch class.java
+                                           ----> touch web.java
+                                           ---> touch red.sh
+                                           ---> touch blue.sh
+                                           ---> touch aaa.txt
+in this way we create the files in working area
+
+if we want to add only java files we use $ git add *.java ---> all java files are added
+if we want to add sh files and txt files  $ git add blue.sh aaa.txt
+
+

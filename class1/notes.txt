@@ -38,4 +38,8 @@ GIT CONFIG:-
 using git config command we configure our details
 like user name ,user email 
 
+git config --global --list
+git config --global user.name "sunitharamu"
+git config --global user.email "teche.sunitha2025@gmail.com"
+
 

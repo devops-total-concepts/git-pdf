@@ -73,5 +73,8 @@ $ git remote add jio https://github.com/devops-total-concepts/first-git-class23.
 $ git remote -v
 here jio is the alias name
 in the place of origin we gitve jio here origin and jio is the alias names
+$ git push jio main
+jio is the alias name 
+main is the branch name
 
 
